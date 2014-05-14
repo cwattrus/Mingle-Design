@@ -18,3 +18,6 @@ There are two types of files in this repo. There is one "Mingle-Base-v[x]" file 
 
 **Bringing new features into "Mingle-Base-v[x]"**
 - Once a feature is baked into Mingle (at least on staging / on it's way to staging) it can be brought into Mingle Base if it forms a part of the overall layout of Mingle.
+
+**Archive**
+  When creating a new base version the old base file "Mingle-Base-v[x-1]" should be placed in the archive folder.
