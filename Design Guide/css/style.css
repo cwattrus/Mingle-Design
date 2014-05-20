@@ -406,6 +406,35 @@ body.home .top_menu {
 	height:auto;
 	max-width:none;
 }
+#gallery-1 .gallery-item img.half {
+	display: inline-block;
+	width:47% !important;
+	height:auto;
+	max-width:none;
+	vertical-align: top;
+}
+.gallery-item div.half {
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+	text-align: left;
+	padding: 24px 30px;
+	box-sizing: border-box;
+}
+
+.gallery-item p {
+	margin-bottom: 30px;
+}
+.gallery-item ul {
+	text-align: left;
+	margin-left: 10px;
+	list-style-type: disc;
+}
+
+.gallery-item ul li{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 
 .col-right .page_content .itemcontent {
 	width:600px;
