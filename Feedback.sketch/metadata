@@ -5,9 +5,9 @@
 	<key>app</key>
 	<string>com.bohemiancoding.sketch3</string>
 	<key>build</key>
-	<integer>7891</integer>
+	<integer>7799</integer>
 	<key>commit</key>
-	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
+	<string>e645bc992e78ea0d8f54ab21bcdc83987015d34b</string>
 	<key>fonts</key>
 	<array>
 		<string>Helvetica-Light</string>
@@ -23,12 +23,8 @@
 		<string>OpenSans-Light</string>
 	</array>
 	<key>length</key>
-<<<<<<< HEAD
-	<integer>1017879</integer>
-=======
-	<integer>1018917</integer>
->>>>>>> Making some changes to card wall and added the feedback mockup
+	<integer>861208</integer>
 	<key>version</key>
-	<integer>37</integer>
+	<integer>36</integer>
 </dict>
 </plist>
