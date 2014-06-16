@@ -20,9 +20,11 @@
 		<string>.LucidaGrandeUI</string>
 		<string>Helvetica-Bold</string>
 		<string>Helvetica</string>
+		<string>OpenSans-Light</string>
+		<string>OpenSans</string>
 	</array>
 	<key>length</key>
-	<integer>802837</integer>
+	<integer>840403</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>

@@ -5,9 +5,9 @@
 	<key>app</key>
 	<string>com.bohemiancoding.sketch3</string>
 	<key>build</key>
-	<integer>7891</integer>
+	<integer>7799</integer>
 	<key>commit</key>
-	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
+	<string>e645bc992e78ea0d8f54ab21bcdc83987015d34b</string>
 	<key>fonts</key>
 	<array>
 		<string>Helvetica-Light</string>
@@ -22,8 +22,8 @@
 		<string>Helvetica</string>
 	</array>
 	<key>length</key>
-	<integer>802837</integer>
+	<integer>799114</integer>
 	<key>version</key>
-	<integer>37</integer>
+	<integer>36</integer>
 </dict>
 </plist>

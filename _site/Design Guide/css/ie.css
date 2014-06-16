@@ -1,0 +1,36 @@
+#carousel_nav a {
+	background:url(../images/icons.png) no-repeat transparent;
+	background-position:-496px -100px;
+	width:9px;
+	height:9px;
+	display:block;
+	overflow:hidden;
+	text-indent:-999px;
+	float:left;
+	margin-left:11px;
+	
+	transition: none;
+	-webkit-transition: none;
+	-moz-transition: none;
+}
+
+#carousel_nav a:hover { 
+	background:url(../images/icons.png) no-repeat transparent;
+	background-position:-516px -134px; 
+	transition: none;
+	-webkit-transition: none;
+	-moz-transition: none;
+}
+
+#carousel_nav a.activeSlide { 
+	background:url(../images/icons.png) no-repeat transparent;
+	background-position:-476px -100px; 
+}
+
+.ie7 .nav-previous {
+	float:left;
+}
+
+.ie7 .nav-next {
+	float:left;
+}
