@@ -10,20 +10,11 @@
 	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
 	<key>fonts</key>
 	<array>
-		<string>Helvetica-Light</string>
-		<string>HelveticaNeue-Light</string>
-		<string>HelveticaNeue-Thin</string>
-		<string>HelveticaNeue-Bold</string>
-		<string>HelveticaNeue-Medium</string>
-		<string>HelveticaNeue</string>
-		<string>Helvetica-Oblique</string>
-		<string>.LucidaGrandeUI</string>
-		<string>Helvetica-Bold</string>
-		<string>Helvetica</string>
+		<string>OpenSans</string>
 		<string>OpenSans-Light</string>
 	</array>
 	<key>length</key>
-	<integer>987862</integer>
+	<integer>293699</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
